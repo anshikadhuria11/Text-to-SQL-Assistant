@@ -1,0 +1,15 @@
+{
+  "reference_date": "2026-11-19",
+  "seed": 20261119,
+  "currency": "INR",
+  "row_counts": {
+    "regions": 8,
+    "customers": 450,
+    "categories": 6,
+    "products": 33,
+    "orders": 3600,
+    "order_items": 5780,
+    "reviews": 1013
+  },
+  "content_sha256": "d4f747071d39868c06ddc0ec55fae766f33b1217f8b0b283f9afc55404fc11eb"
+}

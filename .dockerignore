@@ -1,0 +1,12 @@
+.git
+node_modules
+__pycache__
+.env
+plan.md
+frontend/dist
+backend/evals/results
+*.pyc
+.venv
+venv
+.pytest_cache
+.ruff_cache
